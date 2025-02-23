@@ -5,5 +5,5 @@ Welcome to my Github page! I am Bryan and I am currently pursuing my Masters in 
 
 #### 🌱 Things I am currently working on: 
 - Completing my Masters degree
-- Taking online courses about Data Science and Machine Learning
+- Taking online courses on Penetration Testing
   
